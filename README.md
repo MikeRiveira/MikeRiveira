@@ -21,10 +21,11 @@ I'm the IT Manager at **Generation Auto Group**, responsible for every part of t
 | Area | Tools |
 |---|---|
 | Dealer management systems & data | CDK · Reynolds and Reynolds · Tekion · Authenticom (DMS data integration) |
-| Customer communication | Podium · Numa |
-| Endpoint management & security | Atera (RMM & help desk) · Webroot · Apple Business Manager · SimpleMDM |
+| Customer engagement | Podium · Numa · MasterMind |
+| Endpoint management & security | Atera (RMM & help desk) · NinjaOne (NinjaRMM) · Action1 (patching) · Webroot · Apple Business Manager · SimpleMDM |
+| Passwords & remote access | Keeper · KeePass · Splashtop |
 | Microsoft 365 & documentation | Office 365 administration · Afi.AI (Microsoft 365 backups) · Confluence |
-| Network, DNS & phones | UniFi Site Manager · Cloudflare · GoTo (phone system) |
+| Network, domains & phones | UniFi Site Manager · Cloudflare · GoDaddy · MxToolbox · GoTo (phone system) |
 | AI & automation | Claude Code · MCP connectors |
 
 ### 🚀 Featured projects
