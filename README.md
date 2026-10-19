@@ -16,6 +16,17 @@ I'm the IT Manager at **Generation Auto Group**, responsible for every part of t
 - **AI Tools:** LLM-powered assistants for internal knowledge, document handling and customer communication
 - **Agentic Workflows:** multi-step AI agents that use tools, APIs and human approval steps to finish real tasks
 
+### 🧰 Toolbox
+
+| Area | Tools |
+|---|---|
+| Dealer management systems & data | CDK · Reynolds and Reynolds · Tekion · Authenticom (DMS data integration) |
+| Customer communication | Podium · Numa |
+| Endpoint management & security | Atera (RMM & help desk) · Webroot · Apple Business Manager · SimpleMDM |
+| Microsoft 365 & documentation | Office 365 administration · Afi.AI (Microsoft 365 backups) · Confluence |
+| Network, DNS & phones | UniFi Site Manager · Cloudflare · GoTo (phone system) |
+| AI & automation | Claude Code · MCP connectors |
+
 ### 🚀 Featured projects
 
 | Project | What it does |
