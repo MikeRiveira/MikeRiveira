@@ -1,3 +1,5 @@
+<img src="assets/banner.png" alt="Michael Riveira, IT Manager for dealership technology" width="100%">
+
 # Hi, I'm Michael Riveira 👋
 
 **IT Manager · Dealership Technology · Automation · AI Agents & Agentic Workflows**
