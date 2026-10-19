@@ -20,7 +20,7 @@ I'm the IT Manager at **Generation Auto Group**, responsible for every part of t
 
 | Project | What it does |
 |---|---|
-| _Coming soon_ | Sanitized automation projects from my dealership work |
+| [Dealership IT Dashboard](https://github.com/MikeRiveira/dealership-it-dashboard) · [live demo](https://mikeriveira.github.io/dealership-it-dashboard/) | One screen for multi-store dealership IT: ranked help desk queue, new hire and termination checklists, device health per site, domain security checks, and an AI assistant that briefs you |
 | _Coming soon_ | Open-source AI agent toolkit for dealership workflows |
 
 ### 📈 Impact highlights
