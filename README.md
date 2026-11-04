@@ -41,7 +41,9 @@ I'm the IT Manager at **Generation Auto Group**, responsible for every part of t
 
 ### 📈 Impact highlights
 
-- Manage IT for dealerships across New York and New Jersey, covering 500+ endpoints
+- Run IT for **6 rooftops and ~240 employees** across New York and New Jersey, covering **500+ endpoints**
+- Cut **Microsoft 365 licensing costs by over 60%** across 6 tenants by removing unneeded licenses and moving Outlook-only staff from Business Basic to Kiosk plans
+- Locked down **all 6 company domains** against email spoofing with SPF, DKIM and DMARC set to quarantine
 
 ### 🤝 Connect
 
