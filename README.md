@@ -4,7 +4,7 @@
 
 **IT Manager · Dealership Technology · Automation · AI Agents & Agentic Workflows**
 
-I'm the IT Manager at **Generation Auto Group**, responsible for every part of technology across our dealerships in **New York and New Jersey**: infrastructure, **300+ endpoints**, systems, security and the dealership software stack. I use automation and AI tools to take repetitive work off people's plates and keep a multi-location operation running smoothly.
+I'm the IT Manager at **Generation Auto Group**, responsible for every part of technology across our dealerships in **New York and New Jersey**: infrastructure, **500+ endpoints**, systems, security and the dealership software stack. I use automation and AI tools to take repetitive work off people's plates and keep a multi-location operation running smoothly.
 
 📍 New York
 
@@ -12,7 +12,7 @@ I'm the IT Manager at **Generation Auto Group**, responsible for every part of t
 
 ### 🔧 What I work on
 
-- **IT Management:** multi-site dealership IT across NY & NJ, 300+ managed endpoints, provisioning, security and support
+- **IT Management:** multi-site dealership IT across NY & NJ, 500+ managed endpoints, provisioning, security and support
 - **IT & Automation:** scripting and scheduling routine admin, reporting and data-movement tasks
 - **Dealership Tech:** DMS, CRM and inventory data integrations; lead routing; reporting for sales and service
 - **AI Tools:** LLM-powered assistants for internal knowledge, document handling and customer communication
@@ -41,7 +41,7 @@ I'm the IT Manager at **Generation Auto Group**, responsible for every part of t
 
 ### 📈 Impact highlights
 
-- Manage IT for dealerships across New York and New Jersey, covering 300+ endpoints
+- Manage IT for dealerships across New York and New Jersey, covering 500+ endpoints
 
 ### 🤝 Connect
 
