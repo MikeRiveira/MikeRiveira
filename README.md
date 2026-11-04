@@ -36,8 +36,8 @@ I'm the IT Manager at **Generation Auto Group**, responsible for every part of t
 |---|---|
 | [Dealership IT Dashboard](https://github.com/MikeRiveira/dealership-it-dashboard) · [live demo](https://mikeriveira.github.io/dealership-it-dashboard/) | One screen for multi-store dealership IT: ranked help desk queue, new hire and termination checklists, device health per site, domain security checks, and an AI assistant that briefs you |
 | [Dealership IT Security & AI Training](https://github.com/MikeRiveira/dealership-security-ai-training) | Seven animated training videos for every dealership department on phishing, passwords, customer data, ransomware and responsible AI use, with NY, NJ and federal rules built in. Includes the facilitator guide, quiz key and legal references |
-| [Domain Security Checker](https://github.com/MikeRiveira/domain-security-checker) | Check MX, SPF, DKIM, DMARC, SSL and domain expiry across every domain you own, with a daily GitHub Actions scan |
-| [Atera Triage MCP](https://github.com/MikeRiveira/atera-triage-mcp) | MCP server that lets AI assistants triage an Atera help desk: ranked tickets with reasons, site health and alerts, with personal data redacted |
+| [Domain Security Checker](https://github.com/MikeRiveira/domain-security-checker) | Check MX, SPF, DKIM, DMARC, MTA-STS, BIMI, SSL and domain expiry across every domain you own, with a daily GitHub Actions scan and text, Markdown, JSON or CSV reports |
+| [Atera Triage MCP](https://github.com/MikeRiveira/atera-triage-mcp) | MCP server that lets AI assistants triage an Atera help desk: ranked tickets with reasons, technician workload, site health and alerts, with personal data redacted. Graded A·A·A on [Glama](https://glama.ai/mcp/servers/MikeRiveira/atera-triage-mcp) |
 
 ### 📈 Impact highlights
 
